@@ -1,3 +1,6 @@
 [submodule "CGTestSwiftProject/CGSwiftKit"]
 	path = CGTestSwiftProject/CGSwiftKit
 	url = git@github.com:root338/CGSwiftKit.git
+[submodule "CGTestSwiftProject/CG_CGKit"]
+	path = CGTestSwiftProject/CG_CGKit
+	url = git@github.com:root338/CG_CGKit.git
